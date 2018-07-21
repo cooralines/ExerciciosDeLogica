@@ -14,7 +14,8 @@ namespace Exercicio2CSharp
 
             X = A + B;
 
-            Console.WriteLine("X = " + X);
+            Console.WriteLine("A soma de A + B é: " + X);
+            Console.ReadKey();
         }
     }
 }
