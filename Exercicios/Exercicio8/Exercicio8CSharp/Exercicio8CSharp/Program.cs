@@ -6,16 +6,21 @@ namespace Exercicio8CSharp
     {
         static void Main(string[] args)
         {
-            int A, B, C, D, dif;
+            Console.WriteLine("Digite o valor 1: ");
+            int A = int.Parse(Console.ReadLine());
 
-            A = int.Parse(Console.ReadLine());
-            B = int.Parse(Console.ReadLine());
-            C = int.Parse(Console.ReadLine());
-            D = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o valor 2: ");
+            int B = int.Parse(Console.ReadLine());
 
-            dif = A * B - C * D;
+            Console.WriteLine("Digite o valor 3: ");
+            int C = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("DIFERENCA = " + dif);
+            Console.WriteLine("Digite o valor 4: ");
+            int D = int.Parse(Console.ReadLine());
+
+            int diferenca = A * B - C * D;
+
+            Console.WriteLine("A diferença do produto de A e B pelo produto de C e D é: " + diferenca);
         }
     }
 }
