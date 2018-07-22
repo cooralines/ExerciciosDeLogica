@@ -118,3 +118,8 @@ c) a área do trapézio que tem A e B por bases e C por altura.
 d) a área do quadrado que tem lado B. 
 e) a área do retângulo que tem lados A e B. 
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio18/Exercicio18CSharp/Exercicio18CSharp/Program.cs)
+
+## Exercício 19
+
+>Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio19/Exercicio19CSharp/Exercicio19CSharp/Program.cs)
