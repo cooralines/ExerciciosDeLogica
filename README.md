@@ -74,3 +74,17 @@ Após, calcule e mostre o valor a ser pago.
 Em uma hora (60 minutos) o carro Y consegue se distanciar 30 quilômetros do carro X, ou seja, consegue se afastar um quilômetro a cada 2 minutos.
 Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro Y tomar essa distância do outro carro.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio12/Exercicio12CSharp/Exercicio12CSharp/Program.cs)
+
+## Exercício 13
+
+>Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, 
+ele gostaria que você o auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e a 
+velocidade média durante a mesma (em km/h). Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. 
+Mostre o valor com 3 casas decimais após o ponto.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio13/Exercicio13CSharp/Exercicio13CSharp/Program.cs)
+
+## Exercício 14
+
+>Fazer um programa pra ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor da área, perímetro e diagoal deste retângulo,
+com quatro casas decimais.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio14/Exercicio14CSharp/Exercicio14CSharp/Program.cs)
