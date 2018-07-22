@@ -154,3 +154,10 @@ Este é apenas um exercício com objetivo de testar raciocínio matemático simp
 qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. 
 A seguir mostre a relação de notas necessárias.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio24/Exercicio24CSharp/Exercicio24CSharp/Program.cs)
+
+## Exercício 25
+
+>Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de uma disciplina anual. 
+Em seguida, mostrar a nota final que um aluno obteve no ano juntamente com um texto explicativo. Caso a nota final do aluno
+seja inferior a 60.00, mostrar a meensagem "REPROVADO". Todos os valores devem ter uma casa decimal.	
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio25/Exercicio25CSharpCondicoes/Exercicio25CSharpCondicoes/Program.cs)
