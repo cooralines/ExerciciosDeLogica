@@ -100,3 +100,11 @@ Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas,
 >Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor 
 ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio16/Exercicio16CSharp/Exercicio16CSharp/Program.cs)
+
+## Exercício 17
+
+>Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R3. 
+Considere (atribua) para pi o valor 3.14159.
+Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++), assumem que o resultado da divisão entre dois
+ inteiros é outro inteiro.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio17/Exercicio17CSharp/Exercicio17CSharp/Program.cs)
