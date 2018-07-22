@@ -161,3 +161,10 @@ A seguir mostre a relação de notas necessárias.
 Em seguida, mostrar a nota final que um aluno obteve no ano juntamente com um texto explicativo. Caso a nota final do aluno
 seja inferior a 60.00, mostrar a meensagem "REPROVADO". Todos os valores devem ter uma casa decimal.	
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio25/Exercicio25CSharpCondicoes/Exercicio25CSharpCondicoes/Program.cs)
+
+## Exercício 26
+
+>Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre 
+a mensagem correspondente “Impossivel calcular”, 
+caso haja uma divisão por 0 ou raiz de numero negativo.	
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio26/Exercicio26CSharpCondicoes/Exercicio26CSharpCondicoes/Program.cs)
