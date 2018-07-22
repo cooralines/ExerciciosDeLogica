@@ -140,3 +140,10 @@ mostrando 4 casas decimais após a vírgula.
 >Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. 
 A seguir mostre o valor lido e a relação de notas necessárias.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio22/Exercicio22CSharp/Exercicio22CSharp/Program.cs)
+
+## Exercício 23
+
+>Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
+Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. 
+Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio23/Exercicio23CSharp/Exercicio23CSharp/Program.cs)

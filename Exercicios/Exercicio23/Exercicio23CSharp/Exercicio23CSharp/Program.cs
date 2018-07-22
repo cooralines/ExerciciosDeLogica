@@ -6,10 +6,10 @@ namespace Exercicio23CSharp
     {
         static void Main(string[] args)
         {
-            int idadeDias, anos, meses, dias;
-
-            idadeDias = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("Digite sua idade em dias: ");
+            int idadeDias = int.Parse(Console.ReadLine());
+            int anos, meses, dias;
+          
             anos = idadeDias / 365;
             meses = (idadeDias % 365) / 30;
             dias = (idadeDias % 365) % 30;
