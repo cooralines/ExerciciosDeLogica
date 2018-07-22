@@ -181,3 +181,10 @@ Em caso de empate, mostrar apenas uma vez.
 Cada minuto que excerder a franquia de 100 minutos custa R$ 2.00. Fazer um programa para ler a quantidadede minutos 
 que uma pessoa consumiu, daí mostrar o valor a ser pago.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio28/Exercicio28/Exercicio28/Program.cs)
+
+## Exercício 29
+
+>Fazer um programa para ler um valor inteiro de 1 a 7 representando um dia da semana
+(sendo 1 = domingo, 2 = segunda, e assim por diante).
+Escrever na tela o dia da semana correspondente.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio29/Exercicio29CSharpSwitch/Exercicio29CSharpSwitch/Program.cs)

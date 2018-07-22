@@ -10,11 +10,11 @@ namespace Exercicio29CSharpSwitch
     {
         static void Main(string[] args)
         {
-            int valor;
+            Console.WriteLine("Digite um valor: ");
+            int valor = int.Parse(Console.ReadLine());
+
             string dia;
-
-            valor = int.Parse(Console.ReadLine());
-
+  
             switch (valor)
             {
                 case 1:
