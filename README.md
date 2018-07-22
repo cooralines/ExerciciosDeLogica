@@ -147,3 +147,10 @@ A seguir mostre o valor lido e a relação de notas necessárias.
 Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. 
 Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio23/Exercicio23CSharp/Exercicio23CSharp/Program.cs)
+
+## Exercício 24
+
+>Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. A seguir, calcule o menor número de notas e moedas possíveis no 
+qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. 
+A seguir mostre a relação de notas necessárias.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio24/Exercicio24CSharp/Exercicio24CSharp/Program.cs)
