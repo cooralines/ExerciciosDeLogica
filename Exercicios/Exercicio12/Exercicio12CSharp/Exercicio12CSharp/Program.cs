@@ -6,12 +6,11 @@ namespace Exercicio12CSharp
     {
         static void Main(string[] args)
         {
-            int distancia, tempo;
+            Console.WriteLine("Digite a distância: ");
+            int distancia = int.Parse(Console.ReadLine());
 
-            distancia = int.Parse(Console.ReadLine());
-
-            tempo = distancia * 2;
-
+            int tempo = distancia * 2;
+ 
             Console.WriteLine(tempo + " minutos");
         }
     }
