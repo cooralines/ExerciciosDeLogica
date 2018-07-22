@@ -7,20 +7,21 @@ namespace Exercicio9CSharp
     {
         static void Main(string[] args)
         {
-            int numeroFunc, numeroHorasTrab;
-            double valorHora, salario;
+            Console.WriteLine("Digite o número do funcionário: ");
+            int numeroFunc = int.Parse(Console.ReadLine());
 
-            numeroFunc = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o número de horas trabalhadas: ");
+            int numeroHorasTrab = int.Parse(Console.ReadLine());
 
-            numeroHorasTrab = int.Parse(Console.ReadLine());
 
-            valorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite o valor por hora: ");
+            double valorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            salario = numeroHorasTrab * valorHora;
+            double salario = numeroHorasTrab * valorHora;
 
-            Console.WriteLine("NUMBER = " + numeroFunc);
+            Console.WriteLine("Número do funcionário " + numeroFunc);
 
-            Console.WriteLine("SALARY = U$ " + salario.ToString("F2"));
+            Console.WriteLine("Salário = R$ " + salario.ToString("F2"));
         }
     }
 }

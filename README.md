@@ -49,3 +49,9 @@ a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 
 >Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: 
 DIFERENCA = (A * B - C * D).
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio8/Exercicio8CSharp/Exercicio8CSharp/Program.cs)
+
+## Exercício 9
+
+>Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. 
+A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio9/Exercicio9CSharp/Exercicio9CSharp/Program.cs)
