@@ -94,3 +94,9 @@ com quatro casas decimais.
 >Fazer um programa para ler o nome (apenas uma palavra) e idade de duas pessoas.
 Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio15/Exercicio15CSharp/Exercicio15CSharp/Program.cs)
+
+## Exercício 16
+
+>Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor 
+ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio16/Exercicio16CSharp/Exercicio16CSharp/Program.cs)
