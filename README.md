@@ -203,3 +203,13 @@ O símbolo ( representa "maior que". Por exemplo:
 [0,25]  indica valores entre 0 e 25.0000, inclusive eles.
 (25,50] indica valores maiores que 25 Ex: 25.00001 até o valor 50.0000000
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio31/Exercicio31CSharpCondicao/Exercicio31CSharpCondicao/Program.cs)
+
+## Exercício 32
+
+>Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+codigo 1 = cachorro quente; preço = 4.00.
+codigo 2 = x salada; preço = 4.50.
+codigo 3 = x bacon; preço = 5.00.
+codigo 4 = torrada simples; preço = 2.00.
+codigo 5 = refrigerante; preço = 1.50.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio32/Exexrcicio32CSharpCondicao/Exexrcicio32CSharpCondicao/Program.cs)
