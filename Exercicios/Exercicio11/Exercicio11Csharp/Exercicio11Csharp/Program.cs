@@ -7,15 +7,15 @@ namespace Exercicio11Csharp
     {
         static void Main(string[] args)
         {
-            int X;
-            double Y, consumo;
+            Console.WriteLine("Digite a distância total percorrida: ");
+            int X = int.Parse(Console.ReadLine());
 
-            X = int.Parse(Console.ReadLine());
-            Y = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite o total de combustível gasto: ");
+            double Y = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            consumo = X / Y;
+            double consumo = X / Y;
 
-            Console.WriteLine(consumo.ToString("F3") + " km/l");
+            Console.WriteLine("O consumo médio do automóvel é de: " + consumo.ToString("F3") + " km/l");
             Console.ReadKey();
         }
     }

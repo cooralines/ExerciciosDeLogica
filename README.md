@@ -62,3 +62,8 @@ A seguir, mostre o número e o salário do funcionário, com duas casas decimais
 o número de peças 2 e o valor unitário de cada peça 2. 
 Após, calcule e mostre o valor a ser pago.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio10/Exercicio10CSharp/Exercicio10CSharp/Program.cs)
+
+## Exercício 11
+
+>Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível gasto (em litros).
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio11/Exercicio11Csharp/Exercicio11Csharp/Program.cs)
