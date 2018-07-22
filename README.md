@@ -88,3 +88,9 @@ Mostre o valor com 3 casas decimais após o ponto.
 >Fazer um programa pra ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor da área, perímetro e diagoal deste retângulo,
 com quatro casas decimais.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio14/Exercicio14CSharp/Exercicio14CSharp/Program.cs)
+
+## Exercício 15
+
+>Fazer um programa para ler o nome (apenas uma palavra) e idade de duas pessoas.
+Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio15/Exercicio15CSharp/Exercicio15CSharp/Program.cs)
