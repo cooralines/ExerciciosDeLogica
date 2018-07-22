@@ -188,3 +188,9 @@ que uma pessoa consumiu, daí mostrar o valor a ser pago.
 (sendo 1 = domingo, 2 = segunda, e assim por diante).
 Escrever na tela o dia da semana correspondente.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio29/Exercicio29CSharpSwitch/Exercicio29CSharpSwitch/Program.cs)
+
+## Exercício 30
+
+>Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B 
+e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão escrever "Valores nao aceitos".
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio30/Exercicio30CSharpCondicao/Exercicio30CSharpCondicao/Program.cs)
