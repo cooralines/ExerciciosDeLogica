@@ -7,15 +7,18 @@ namespace Exercicio7CSharp
     {
         static void Main(string[] args)
         {
-            double A, B, C, MEDIA;
+            Console.WriteLine("Digite a primeira nota: ");
+            double A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite a segunda nota: ");
+            double B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            MEDIA = ((A * 2) + (B * 3) + (C * 5)) / 10;
+            Console.WriteLine("Digite a terceira nota: ");
+            double C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("MEDIA = " + MEDIA.ToString("F1"));
+            double media = ((A * 2) + (B * 3) + (C * 5)) / 10;
+
+            Console.WriteLine("MEDIA = " + media.ToString("F1"));
         }
     }
 }

@@ -37,3 +37,9 @@ Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando
 sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, 
 sempre com uma casa decimal.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio6/Exercicio6/Exercicio6/Program.cs)
+
+## Exercício 7
+
+>Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 2, 
+a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio7/Exercicio7CSharp/Exercicio7CSharp/Program.cs)
