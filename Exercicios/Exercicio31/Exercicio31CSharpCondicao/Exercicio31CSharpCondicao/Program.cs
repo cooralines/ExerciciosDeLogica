@@ -6,10 +6,9 @@ namespace Exercicio31CSharpCondicao
     {
         static void Main(string[] args)
         {
-            double N;
-
-            N = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
+            Console.WriteLine("Digite um valor: ");
+            double N = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); ;
+         
             if (N >= 0.0 && N <= 25)
             {
                 Console.WriteLine("Intervalo [0,25]");
