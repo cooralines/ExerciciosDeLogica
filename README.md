@@ -108,3 +108,13 @@ Considere (atribua) para pi o valor 3.14159.
 Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++), assumem que o resultado da divisão entre dois
  inteiros é outro inteiro.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio17/Exercicio17CSharp/Exercicio17CSharp/Program.cs)
+
+## Exercício 18
+
+>Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre: 
+a) a área do triângulo retângulo que tem A por base e C por altura. 
+b) a área do círculo de raio C. (pi = 3.14159) 
+c) a área do trapézio que tem A e B por bases e C por altura.
+d) a área do quadrado que tem lado B. 
+e) a área do retângulo que tem lados A e B. 
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio18/Exercicio18CSharp/Exercicio18CSharp/Program.cs)
