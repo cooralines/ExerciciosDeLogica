@@ -134,3 +134,9 @@ mostrando 4 casas decimais após a vírgula.
 
 >Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio21/Exercicio21CSharp/Exercicio21CSharp/Program.cs)
+
+## Exercício 22
+
+>Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. 
+A seguir mostre o valor lido e a relação de notas necessárias.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio22/Exercicio22CSharp/Exercicio22CSharp/Program.cs)

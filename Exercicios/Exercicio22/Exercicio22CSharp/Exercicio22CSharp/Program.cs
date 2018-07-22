@@ -6,12 +6,13 @@ namespace Exercicio22CSharp
     {
         static void Main(string[] args)
         {
-            int N, nota100, nota50, nota20, nota10, nota5, nota2, nota1, resto1, resto2, resto3, resto4, resto5, resto6;
+            Console.WriteLine("Digite um valor: ");
+            int valor = int.Parse(Console.ReadLine());
 
-            N = int.Parse(Console.ReadLine());
+            int nota100, nota50, nota20, nota10, nota5, nota2, nota1, resto1, resto2, resto3, resto4, resto5, resto6;           
 
-            nota100 = N / 100;
-            resto1 = N % 100;
+            nota100 = valor / 100;
+            resto1 = valor % 100;
 
             nota50 = resto1 / 50;
             resto2 = resto1 % 50;
@@ -30,7 +31,7 @@ namespace Exercicio22CSharp
 
             nota1 = resto6;
 
-            Console.WriteLine(N);
+            Console.WriteLine(valor);
 
             Console.WriteLine(nota100 + " nota(s) de R$ 100,00");
 
