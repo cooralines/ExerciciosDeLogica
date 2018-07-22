@@ -6,14 +6,15 @@ namespace Exercicio5
     {
         static void Main(string[] args)
         {
-            int valor1, valor2, PROD;
+            Console.WriteLine("Digite o primeiro valor: ");
+            int valor1 = int.Parse(Console.ReadLine());
 
-            valor1 = int.Parse(Console.ReadLine());
-            valor2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o segundo valor: ");
+            int valor2 = int.Parse(Console.ReadLine());
+            
+            int produto = valor1 * valor2;
 
-            PROD = valor1 * valor2;
-
-            Console.WriteLine("PROD = " + PROD);
+            Console.WriteLine("O valor do produto é: " + produto);
         }
     }
 }

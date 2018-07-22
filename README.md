@@ -23,5 +23,10 @@ Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando
 
 ## Exercício 4
 
->Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA.
+>Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável soma.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio4/Exercicio4CSharp/Exercicio4/Program.cs)
+
+## Exercício 5
+
+>Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável produto.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio5/Exercicio5CSharp/Exercicio5/Program.cs)
