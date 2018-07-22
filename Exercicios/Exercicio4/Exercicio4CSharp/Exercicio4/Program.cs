@@ -6,14 +6,15 @@ namespace Exercicio4
     {
         static void Main(string[] args)
         {
-            int A, B, SOMA;
+            Console.WriteLine("Digite o primeiro número: ");
+            int numero1 = int.Parse(Console.ReadLine());
 
-            A = int.Parse(Console.ReadLine());
-            B = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o segundo número: ");
+            int numero2 = int.Parse(Console.ReadLine());
 
-            SOMA = A + B;
+            int soma = numero1 + numero2;
 
-            Console.WriteLine("SOMA = " + SOMA);
+            Console.WriteLine("O resultado é: " + soma);
         }
     }
 }
