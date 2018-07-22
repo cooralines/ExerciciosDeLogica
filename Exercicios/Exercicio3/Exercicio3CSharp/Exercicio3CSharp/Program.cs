@@ -13,7 +13,7 @@ namespace Exercicio3CSharp
 
             area = 3.14159 * Math.Pow(raio, 2.0);
 
-            Console.WriteLine("A=" + area.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Area= " + area.ToString("F4", CultureInfo.InvariantCulture));
 
             Console.ReadKey();
         }
