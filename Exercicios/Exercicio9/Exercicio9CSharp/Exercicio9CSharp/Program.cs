@@ -13,7 +13,6 @@ namespace Exercicio9CSharp
             Console.WriteLine("Digite o número de horas trabalhadas: ");
             int numeroHorasTrab = int.Parse(Console.ReadLine());
 
-
             Console.WriteLine("Digite o valor por hora: ");
             double valorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 

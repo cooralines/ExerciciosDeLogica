@@ -18,6 +18,7 @@ namespace Exercicio10CSharp
             valorPeca1 = double.Parse(vet[2], CultureInfo.InvariantCulture);
 
             vet = Console.ReadLine().Split(' ');
+
             codigoPeca2 = int.Parse(vet[0]);
             quantidadeDePecas2 = int.Parse(vet[1]);
             valorPeca2 = double.Parse(vet[2], CultureInfo.InvariantCulture);

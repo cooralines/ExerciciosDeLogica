@@ -55,3 +55,10 @@ DIFERENCA = (A * B - C * D).
 >Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. 
 A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio9/Exercicio9CSharp/Exercicio9CSharp/Program.cs)
+
+## Exercício 10
+
+>Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, 
+o número de peças 2 e o valor unitário de cada peça 2. 
+Após, calcule e mostre o valor a ser pago.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio10/Exercicio10CSharp/Exercicio10CSharp/Program.cs)
