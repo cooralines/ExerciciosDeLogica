@@ -6,15 +6,16 @@ namespace Exercicio21CSharp
     {
         static void Main(string[] args)
         {
-            int N, horas, minutos, segundos, resto;
+            Console.WriteLine("Digite um valor: ");
+            int tempo = int.Parse(Console.ReadLine());
+            
+            int horas = tempo / 3600;
 
-            N = int.Parse(Console.ReadLine());
+            int resto = tempo % 3600;
 
-            horas = N / 3600;
-            resto = N % 3600;
+            int minutos = resto / 60;
 
-            minutos = resto / 60;
-            segundos = resto % 60;
+            int segundos = resto % 60;
 
             Console.WriteLine(horas + ":" + minutos + ":" + segundos);
         }

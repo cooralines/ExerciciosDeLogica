@@ -129,3 +129,8 @@ e) a área do retângulo que tem lados A e B.
 >Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, 
 mostrando 4 casas decimais após a vírgula.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio20/Exercicio20CSharp/Exercicio20CSharp/Program.cs)
+
+## Exercício 21
+
+>Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio21/Exercicio21CSharp/Exercicio21CSharp/Program.cs)
