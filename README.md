@@ -174,3 +174,10 @@ caso haja uma divisão por 0 ou raiz de numero negativo.
 >Fazer um prograa para ler três números inteiros. Em seguida, mostrar qual o menor dentre os três números lidos.
 Em caso de empate, mostrar apenas uma vez.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio27/Exercicio27CSharpCondicoes/Exercicio27CSharpCondicoes/Program.cs)
+
+## Exercício 28
+
+>Uma operadora de telefonia cobra R$ 50.00 por um plano básico que da direito a 100 minutos de telefone.
+Cada minuto que excerder a franquia de 100 minutos custa R$ 2.00. Fazer um programa para ler a quantidadede minutos 
+que uma pessoa consumiu, daí mostrar o valor a ser pago.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio28/Exercicio28/Exercicio28/Program.cs)
