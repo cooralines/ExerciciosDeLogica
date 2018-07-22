@@ -168,3 +168,9 @@ seja inferior a 60.00, mostrar a meensagem "REPROVADO". Todos os valores devem t
 a mensagem correspondente “Impossivel calcular”, 
 caso haja uma divisão por 0 ou raiz de numero negativo.	
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio26/Exercicio26CSharpCondicoes/Exercicio26CSharpCondicoes/Program.cs)
+
+## Exercício 27
+
+>Fazer um prograa para ler três números inteiros. Em seguida, mostrar qual o menor dentre os três números lidos.
+Em caso de empate, mostrar apenas uma vez.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio27/Exercicio27CSharpCondicoes/Exercicio27CSharpCondicoes/Program.cs)
