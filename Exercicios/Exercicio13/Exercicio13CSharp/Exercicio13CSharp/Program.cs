@@ -7,17 +7,18 @@ namespace Exercicio13CSharp
     {
         static void Main(string[] args)
         {
-            int tempo, velocidade, distancia;
-            double litros;
+            Console.WriteLine("Digite o tempo gasto na viagem: ");
+            int tempo = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Digite a velocidade média gasta durante a viagem: ");
+            int velocidade = int.Parse(Console.ReadLine());
 
-            tempo = int.Parse(Console.ReadLine());
-            velocidade = int.Parse(Console.ReadLine());
+            int distancia = tempo * velocidade;
 
-            distancia = tempo * velocidade;
-            litros = distancia / 12.0;
+            double litros =  distancia / 12.0;
 
-            Console.WriteLine(litros.ToString("F3"));
+            Console.WriteLine("A quantidade de litros necessária para completar a viagem será : " + litros.ToString("F3"));
+            Console.ReadKey();
         }
     }
 }
