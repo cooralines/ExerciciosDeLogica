@@ -123,3 +123,9 @@ e) a área do retângulo que tem lados A e B.
 
 >Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
 [Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio19/Exercicio19CSharp/Exercicio19CSharp/Program.cs)
+
+## Exercício 20
+
+>Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, 
+mostrando 4 casas decimais após a vírgula.
+[Código Fonte](https://github.com/cooralines/ExerciciosDeLogica/blob/master/Exercicios/Exercicio20/Exercicio20CSharp/Exercicio20CSharp/Program.cs)
